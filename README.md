@@ -1,3 +1,5 @@
+![](www/s249_Adm4nnUr0igQZk8uUMY3OOIp7KjgtwRKZN52vnsU_logo_1.jpg)
+
 # randomNameGen: random person name and information generator for R
 
 #### Use app online: __[www.shinyappstore.com/a/randomNameGen](https://shinyappstore.com/a/randomNameGen)__
